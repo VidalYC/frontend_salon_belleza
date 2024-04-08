@@ -1,0 +1,11 @@
+@import "keep-react/css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+img {
+  width: 500px;
+  height: 430px;
+  display: inline;
+  position: relative;
+  border-radius: 20px;
+}
